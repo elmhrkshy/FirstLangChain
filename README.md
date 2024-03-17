@@ -1,8 +1,12 @@
 # FirstLangChain
 First LangChain project
 
-![Notes pg 1] (https://github.com/elmhrkshy/FirstLangChain/blob/main/LangChain1.jpeg?raw=true)
+Youtube reference link : https://www.youtube.com/watch?v=nAmC7SoVLd8
 
-![Notes pg 2] (https://github.com/elmhrkshy/FirstLangChain/blob/main/LangChain2.jpeg?raw=true)
+## Notes and learnings
 
-![Notes pg 3] (https://github.com/elmhrkshy/FirstLangChain/blob/main/LangChain3.jpeg?raw=true)
+![Notes pg 1](https://github.com/elmhrkshy/FirstLangChain/blob/main/LangChain1.jpeg)
+
+![Notes pg 2](https://github.com/elmhrkshy/FirstLangChain/blob/main/LangChain2.jpeg)
+
+![Notes pg 3](https://github.com/elmhrkshy/FirstLangChain/blob/main/LangChain3.jpeg)
