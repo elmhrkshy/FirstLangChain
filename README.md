@@ -1,4 +1,4 @@
-# FirstLangChain
+# FirstLangChain (Restaurant name and menu generator)
 First LangChain project
 
 Youtube reference link : https://www.youtube.com/watch?v=nAmC7SoVLd8
