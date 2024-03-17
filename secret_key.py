@@ -1,0 +1,2 @@
+openai_key = "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"
+serpapi_key = "b39f116d260a151699d32ed8edb0e333d1c677cd67f78405ed03c9b3e010a04b"
